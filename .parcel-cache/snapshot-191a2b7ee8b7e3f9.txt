@@ -24,7 +24,7 @@
 110C:\Users\gayat\Desktop\Hakico 3\Codes\React\passwordgen\node_modules\lmdb\node_modules\node-addon-api\index.js133961106537450823 0
 87C:\Users\gayat\Desktop\Hakico 3\Codes\React\passwordgen\node_modules\.package-lock.json133961106551031190 0
 99C:\Users\gayat\Desktop\Hakico 3\Codes\React\passwordgen\node_modules\lmdb\bin\download-prebuilds.js133961106539932478 0
-60C:\Users\gayat\Desktop\Hakico 3\Codes\React\passwordgen\dist133961140068614642 1
+60C:\Users\gayat\Desktop\Hakico 3\Codes\React\passwordgen\dist133961943878689306 1
 168C:\Users\gayat\Desktop\Hakico 3\Codes\React\passwordgen\node_modules\@parcel\core\test\fixtures\local-plugin-config-pkg\node_modules\parcel-config-local\local-plugin.js133961106539506386 0
 112C:\Users\gayat\Desktop\Hakico 3\Codes\React\passwordgen\node_modules\caniuse-lite\data\features\text-emphasis.js133961106545359250 0
 124C:\Users\gayat\Desktop\Hakico 3\Codes\React\passwordgen\node_modules\@swc\helpers\src\_class_static_private_field_update.mjs133961106542479372 0
@@ -81,7 +81,7 @@
 98C:\Users\gayat\Desktop\Hakico 3\Codes\React\passwordgen\node_modules\nullthrows\nullthrows.js.flow133961106535962432 0
 120C:\Users\gayat\Desktop\Hakico 3\Codes\React\passwordgen\node_modules\@parcel\error-overlay\src\components\CloseButton.js133961106535564233 0
 88C:\Users\gayat\Desktop\Hakico 3\Codes\React\passwordgen\node_modules\react-dom\static.js133961106209096784 0
-68C:\Users\gayat\Desktop\Hakico 3\Codes\React\passwordgen\src\index.js133961933028661999 0
+68C:\Users\gayat\Desktop\Hakico 3\Codes\React\passwordgen\src\index.js133961943870874379 0
 69C:\Users\gayat\Desktop\Hakico 3\Codes\React\passwordgen\src\style.css133961132600857311 0
 121C:\Users\gayat\Desktop\Hakico 3\Codes\React\passwordgen\node_modules\caniuse-lite\data\features\getelementsbyclassname.js133961106542469370 0
 89C:\Users\gayat\Desktop\Hakico 3\Codes\React\passwordgen\node_modules\postcss-value-parser133961106536529878 1
@@ -1224,9 +1224,9 @@
 118C:\Users\gayat\Desktop\Hakico 3\Codes\React\passwordgen\node_modules\@parcel\reporter-dev-server\lib\ServerReporter.js133961106537822247 0
 98C:\Users\gayat\Desktop\Hakico 3\Codes\React\passwordgen\node_modules\msgpackr-extract\node_modules133961106546349707 1
 104C:\Users\gayat\Desktop\Hakico 3\Codes\React\passwordgen\node_modules\caniuse-lite\data\features\meter.js133961106543839086 0
-85C:\Users\gayat\Desktop\Hakico 3\Codes\React\passwordgen\dist\passwordgen.2cdaf7bc.css133961139808163825 0
+85C:\Users\gayat\Desktop\Hakico 3\Codes\React\passwordgen\dist\passwordgen.2cdaf7bc.css133961943878159550 0
 98C:\Users\gayat\Desktop\Hakico 3\Codes\React\passwordgen\node_modules\msgpackr-extract\package.json133961106536240282 0
-84C:\Users\gayat\Desktop\Hakico 3\Codes\React\passwordgen\dist\passwordgen.31b563d9.js133961140068549502 0
+84C:\Users\gayat\Desktop\Hakico 3\Codes\React\passwordgen\dist\passwordgen.31b563d9.js133961943878626496 0
 100C:\Users\gayat\Desktop\Hakico 3\Codes\React\passwordgen\node_modules\caniuse-lite\data\regions\MQ.js133961106543933955 0
 125C:\Users\gayat\Desktop\Hakico 3\Codes\React\passwordgen\node_modules\lightningcss\node_modules\detect-libc\lib\detect-libc.js133961106535305266 0
 95C:\Users\gayat\Desktop\Hakico 3\Codes\React\passwordgen\node_modules\msgpackr-extract\README.md133961106536412297 0
@@ -3596,6 +3596,6 @@
 80C:\Users\gayat\Desktop\Hakico 3\Codes\React\passwordgen\node_modules\.bin\semver133961106546429402 0
 84C:\Users\gayat\Desktop\Hakico 3\Codes\React\passwordgen\node_modules\.bin\semver.cmd133961106546429402 0
 84C:\Users\gayat\Desktop\Hakico 3\Codes\React\passwordgen\node_modules\.bin\semver.ps1133961106546429402 0
-71C:\Users\gayat\Desktop\Hakico 3\Codes\React\passwordgen\dist\index.html133961130448840709 0
-89C:\Users\gayat\Desktop\Hakico 3\Codes\React\passwordgen\dist\passwordgen.2cdaf7bc.css.map133961139808212786 0
-88C:\Users\gayat\Desktop\Hakico 3\Codes\React\passwordgen\dist\passwordgen.31b563d9.js.map133961140068604646 0
+71C:\Users\gayat\Desktop\Hakico 3\Codes\React\passwordgen\dist\index.html133961941337815989 0
+89C:\Users\gayat\Desktop\Hakico 3\Codes\React\passwordgen\dist\passwordgen.2cdaf7bc.css.map133961943878214250 0
+88C:\Users\gayat\Desktop\Hakico 3\Codes\React\passwordgen\dist\passwordgen.31b563d9.js.map133961943878679310 0

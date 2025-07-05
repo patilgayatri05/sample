@@ -1,15 +1,42 @@
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 import ReactDOM from "react-dom/client"
 
 
 function PasswordGenerator(){
     
-     const [password,setPass] = useState("dghjawdghgdedghwhdb");
+     const [password,setPass] = useState("");
 
      const [length,setLength] = useState(10);
 
      const [numberchanged,setnumchanged] = useState(false);
      const [charchanged,setcharchanged] = useState(false);
+
+
+let pass=""
+     function generatepass()
+     {
+      let str = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
+      if(numberchanged)
+        str+="123456789";
+      if(charchanged)
+        str+="!@#$%^&*({})+|?><:";
+
+     let pass=""
+      for(let i=0;i<length;i++)
+      {
+
+        {/* This line randomly picks a character from str and adds it to the password string.*/}
+           pass+= str[Math.floor(Math.random()*str.length)]
+      }
+      setPass(pass);
+     };
+     
+
+     useEffect(()=>{
+      generatepass();
+     },[length,numberchanged,charchanged]);
+    
+
     return(
 
         <>
