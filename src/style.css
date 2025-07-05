@@ -1,0 +1,34 @@
+body {
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center; /* centers horizontally */
+    align-items: center;     /* centers vertically */
+    background-color: black; /* your current background */
+}
+
+#root{
+    background-color: bisque;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+     
+}
+
+
+#inner {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;   /* Keep them in one horizontal row */
+    align-items: center;   /* Proper vertical alignment */
+    gap: 10px;             /* Spacing between all elements */
+}
+
+input[type="range"] {
+    accent-color: #ff6600; /* Optional: To match your slider color with teacher's demo */
+}
+
+label {
+    font-weight: bold;
+}
