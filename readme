@@ -1,0 +1,14 @@
+//in one file ypu only have single export default statement
+
+//if you wanna export more then ypu can export it by using export keyword behind function
+
+//eg export greet() or export meet()
+//if you want import that then then used {} to function
+//eg. import {greet,meet} from 'utils/dummy'
+
+/*if export default : no need of curly braces
+if only export then {} must
+
+and if you wanna change function name then used "as" 
+eg. greet as goa
+ */
